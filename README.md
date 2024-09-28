@@ -1,2 +1,3 @@
 # sunil-kumar
-thia is my firat repository
+thia is my first repository
+hello i am sunil kumar
